@@ -22,3 +22,6 @@
 
 8. When user try to login with facebook
 ![Screenshot (11)](https://user-images.githubusercontent.com/112002659/209445670-e63aa4dd-e135-44c7-8a52-8ca5f62d834e.png)
+
+
+This is only for Educational Purpose only.
